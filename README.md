@@ -1,6 +1,4 @@
-```python?code_reference&code_event_index=2
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write("""# Info Kiosk Tester (IKT)
+# Info Kiosk Tester (IKT)
 
 **Info Kiosk Tester** is a robust, modular web-based auditing and penetration-testing toolkit specifically engineered for evaluating the security posture, stability, and browser sandbox integrity of hardened information kiosks, public terminals, and single-purpose embedded devices (Kiosk Mode / Assigned Access).
 
